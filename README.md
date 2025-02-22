@@ -1,0 +1,3 @@
+# Neutrino Oscillation and Matter Effects
+
+This is the mathematica code for analysing the oscillation effects in different matter profiles. The code explores how neutrinos oscillate through different environments, including the Sun and Earth, accounting for both adiabatic and non-adiabatic effects.
